@@ -24,6 +24,5 @@ public class Main {
             System.out.println();
             return "0 ile 9 arasında bir değer giriniz.";
         }
-        //System.out.println("Program sonlandırıldı.");
     }
 }
