@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07453425-fe02-45b5-a36d-bf6ebbcfc5e7" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/src/TryCatch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryCatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KitapSıralayıcı/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KitapSıralayıcı/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KitapSıralayıcı/OrderComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedHashMapAndTreeMap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedHashMapAndTreeMap/OrderByNoComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedHashSet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapInterfaceHashMap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PriorityQueue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueLinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeSet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeSet/OrderName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeSet/OrderNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeSet/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vektor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +50,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayList.Main.executor": "Run",
+    "Application.Collection.Main.executor": "Run",
     "Application.Encapsulation.Main.executor": "Run",
     "Application.Exception.Main.executor": "Run",
     "Application.Expection.Main.executor": "Run",
     "Application.First.Main.executor": "Run",
+    "Application.HashMap.executor": "Run",
+    "Application.KitapSıralayıcı.Main.executor": "Run",
+    "Application.LinkedHashMapAndTreeMap.Main.executor": "Run",
+    "Application.LinkedHashSet.Main.executor": "Run",
+    "Application.LinkedList.Main.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MapInterfaceHashMap.Main.executor": "Run",
+    "Application.PriorityQueue.Main.executor": "Run",
+    "Application.QueueLinkedList.Main.executor": "Run",
     "Application.Throw.Main.executor": "Run",
+    "Application.TreeSet.Main.executor": "Run",
     "Application.Try.executor": "Run",
     "Application.TryCatchFinally.Main.executor": "Run",
     "Application.second.executor": "Run",
@@ -50,13 +78,13 @@
     "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Java102/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Exception.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception.Main" />
+  <component name="RunManager" selected="Application.KitapSıralayıcı.Main">
+    <configuration name="KitapSıralayıcı.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KitapSıralayıcı.Main" />
       <module name="Java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception.*" />
+          <option name="PATTERN" value="KitapSıralayıcı.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TryCatch.Main" />
+    <configuration name="LinkedHashMapAndTreeMap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedHashMapAndTreeMap.Main" />
       <module name="Java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TryCatch.*" />
+          <option name="PATTERN" value="LinkedHashMapAndTreeMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Throw.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Throw.Main" />
+    <configuration name="MapInterfaceHashMap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapInterfaceHashMap.Main" />
       <module name="Java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Throw.*" />
+          <option name="PATTERN" value="MapInterfaceHashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Throw.Try" />
+    <configuration name="PriorityQueue.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PriorityQueue.Main" />
       <module name="Java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Throw.*" />
+          <option name="PATTERN" value="PriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryCatchFinally.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TryCatchFinally.Main" />
+    <configuration name="QueueLinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueLinkedList.Main" />
       <module name="Java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TryCatchFinally.*" />
+          <option name="PATTERN" value="QueueLinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Try" />
-        <item itemvalue="Application.Throw.Main" />
-        <item itemvalue="Application.TryCatchFinally.Main" />
-        <item itemvalue="Application.Exception.Main" />
+        <item itemvalue="Application.KitapSıralayıcı.Main" />
+        <item itemvalue="Application.LinkedHashMapAndTreeMap.Main" />
+        <item itemvalue="Application.MapInterfaceHashMap.Main" />
+        <item itemvalue="Application.PriorityQueue.Main" />
+        <item itemvalue="Application.QueueLinkedList.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716228995433</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <option name="closed" value="true" />
+      <created>1716229010978</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716229010978</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
