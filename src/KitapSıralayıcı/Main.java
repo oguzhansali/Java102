@@ -11,14 +11,14 @@ public class Main {
         Book b3 = new Book("Kimya",220,"Yazar A","2017");
         Book b4 = new Book("Biyoloji",100,"Ahmet Necdet","1987");
         Book b5 = new Book("Hayat Bilgisi",500,"Recep","2005");
-
+        //Kitapları alfabetik sıralar.
         Set<Book> bookName= new TreeSet<>();//
         bookName.add(b1);
         bookName.add(b2);
         bookName.add(b3);
         bookName.add(b4);
         bookName.add(b5);
-        //Kitapları alfabetik sıralar.
+       //Kitapları alfabetik sıralar.
         for (Book book: bookName){
             System.out.println(book);
         }
@@ -31,7 +31,7 @@ public class Main {
         booksPage.add(b4);
         booksPage.add(b5);
 
-        for (Book pageSort: booksPage){
+        for (Book pageSort: booksPage){//Kitapları sayfa sayısına göre yazdırır.
             System.out.println(pageSort);
         }
 

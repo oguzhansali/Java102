@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07453425-fe02-45b5-a36d-bf6ebbcfc5e7" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KitapSıralayıcı/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KitapSıralayıcı/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KitapSıralayıcı/OrderComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedHashMapAndTreeMap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedHashMapAndTreeMap/OrderByNoComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedHashSet/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MapInterfaceHashMap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PriorityQueue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueLinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeSet/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeSet/OrderName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeSet/OrderNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeSet/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vektor/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KitapSıralayıcı/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KitapSıralayıcı/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KitapSıralayıcı/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KitapSıralayıcı/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KitapSıralayıcı/OrderComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KitapSıralayıcı/OrderComparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,36 +34,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayList.Main.executor": "Run",
-    "Application.Collection.Main.executor": "Run",
-    "Application.Encapsulation.Main.executor": "Run",
-    "Application.Exception.Main.executor": "Run",
-    "Application.Expection.Main.executor": "Run",
-    "Application.First.Main.executor": "Run",
-    "Application.HashMap.executor": "Run",
-    "Application.KitapSıralayıcı.Main.executor": "Run",
-    "Application.LinkedHashMapAndTreeMap.Main.executor": "Run",
-    "Application.LinkedHashSet.Main.executor": "Run",
-    "Application.LinkedList.Main.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MapInterfaceHashMap.Main.executor": "Run",
-    "Application.PriorityQueue.Main.executor": "Run",
-    "Application.QueueLinkedList.Main.executor": "Run",
-    "Application.Throw.Main.executor": "Run",
-    "Application.TreeSet.Main.executor": "Run",
-    "Application.Try.executor": "Run",
-    "Application.TryCatchFinally.Main.executor": "Run",
-    "Application.second.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Java102/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayList.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Collection.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exception.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Expection.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.First.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KitapSıralayıcı.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashMapAndTreeMap.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashSet.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapInterfaceHashMap.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PriorityQueue.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueueLinkedList.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Throw.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSet.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Try.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatchFinally.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.second.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/oguzh/IdeaProjects/Java102/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.KitapSıralayıcı.Main">
     <configuration name="KitapSıralayıcı.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KitapSıralayıcı.Main" />
@@ -210,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716229010978</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".">
+      <option name="closed" value="true" />
+      <created>1716321363237</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716321363238</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
