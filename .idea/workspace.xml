@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07453425-fe02-45b5-a36d-bf6ebbcfc5e7" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/FikstürOluşturucu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FikstürOluşturucu/Teams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KelimeSıralayıcı/KelimeSırala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KelimeSıralayıcı/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,38 +33,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrayList.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Collection.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encapsulation.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exception.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Expection.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.First.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KitapSıralayıcı.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedHashMapAndTreeMap.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedHashSet.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedList.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MapInterfaceHashMap.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PriorityQueue.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueueLinkedList.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Teams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Throw.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TreeSet.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Try.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatchFinally.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.second.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/oguzh/IdeaProjects/Java102/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayList.Main.executor": "Run",
+    "Application.Collection.Main.executor": "Run",
+    "Application.Encapsulation.Main.executor": "Run",
+    "Application.Exception.Main.executor": "Run",
+    "Application.Expection.Main.executor": "Run",
+    "Application.First.Main.executor": "Run",
+    "Application.HashMap.executor": "Run",
+    "Application.KelimeSıralayıcı.Main.executor": "Run",
+    "Application.KitapSıralayıcı.Main.executor": "Run",
+    "Application.LinkedHashMapAndTreeMap.Main.executor": "Run",
+    "Application.LinkedHashSet.Main.executor": "Run",
+    "Application.LinkedList.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MapInterfaceHashMap.Main.executor": "Run",
+    "Application.PriorityQueue.Main.executor": "Run",
+    "Application.QueueLinkedList.Main.executor": "Run",
+    "Application.Teams.executor": "Run",
+    "Application.Throw.Main.executor": "Run",
+    "Application.TreeSet.Main.executor": "Run",
+    "Application.Try.executor": "Run",
+    "Application.TryCatchFinally.Main.executor": "Run",
+    "Application.second.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Java102/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.KelimeSıralayıcı.Main">
+    <configuration name="KelimeSıralayıcı.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KelimeSıralayıcı.Main" />
+      <module name="Java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KelimeSıralayıcı.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KitapSıralayıcı.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KitapSıralayıcı.Main" />
       <module name="Java102" />
@@ -104,19 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapInterfaceHashMap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapInterfaceHashMap.Main" />
-      <module name="Java102" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MapInterfaceHashMap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Teams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FikstürOluşturucu.Teams" />
       <module name="Java102" />
@@ -132,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KelimeSıralayıcı.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Teams" />
         <item itemvalue="Application.KitapSıralayıcı.Main" />
         <item itemvalue="Application.LinkedHashMapAndTreeMap.Main" />
-        <item itemvalue="Application.MapInterfaceHashMap.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716398978156</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=".">
+      <option name="closed" value="true" />
+      <created>1716409041180</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716409041180</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
