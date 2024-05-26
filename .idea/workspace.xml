@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07453425-fe02-45b5-a36d-bf6ebbcfc5e7" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Asus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Casper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/CepTelefonu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Hp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Huawei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Katogoriler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Lenova.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Markalar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/NoteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Samsung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatikaStore/Xiaomi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested/Anonymus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested/Local.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested/Out.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatikaStore/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatikaStore/Store.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +52,7 @@
     "Application.LinkedList.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MapInterfaceHashMap.Main.executor": "Run",
+    "Application.Nested.Main.executor": "Run",
     "Application.PatikaStore.Main.executor": "Run",
     "Application.PriorityQueue.Main.executor": "Run",
     "Application.QueueLinkedList.Main.executor": "Run",
@@ -79,7 +70,7 @@
     "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Java102/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PatikaStore.Main">
+  <component name="RunManager" selected="Application.Nested.Main">
     <configuration name="KelimeSıralayıcı.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KelimeSıralayıcı.Main" />
       <module name="Java102" />
@@ -93,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KitapSıralayıcı.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KitapSıralayıcı.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FikstürOluşturucu.Main" />
       <module name="Java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KitapSıralayıcı.*" />
+          <option name="PATTERN" value="FikstürOluşturucu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FikstürOluşturucu.Main" />
+    <configuration name="Nested.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nested.Main" />
       <module name="Java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FikstürOluşturucu.*" />
+          <option name="PATTERN" value="Nested.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nested.Main" />
         <item itemvalue="Application.PatikaStore.Main" />
         <item itemvalue="Application.KelimeSıralayıcı.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Teams" />
-        <item itemvalue="Application.KitapSıralayıcı.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716464250852</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=".">
+      <option name="closed" value="true" />
+      <created>1716492486788</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716492486788</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

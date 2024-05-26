@@ -10,6 +10,7 @@ public class Store {
     private List<Markalar>markalarList;
 
     public Store(){
+        //Listeler oluşturularak nesneler bu listelerin içine eklendi.
         notebookList = new ArrayList<>();
         cepTelefonuList=new ArrayList<>();
         markalarList=new ArrayList<>();
@@ -39,7 +40,7 @@ public class Store {
 
 
 
-        while (!exit) {
+        while (!exit) {//Kullanıcıdan yapmasını istedğiği işlem seçtirildi.
             System.out.println("PatikaStore Ürün Yönetim Paneli!");
             System.out.println("1-Notebook İşlemleri");
             System.out.println("2-Cep telefonu işlemleri");
@@ -49,7 +50,7 @@ public class Store {
             int selcet = input.nextInt();
             System.out.println("Tercihiniz: " + selcet);
 
-            switch (selcet) {
+            switch (selcet) {//Kullanıcının seçtiği işleme göre işlem döndürür.
                 case 0:
                     exit = true;
                     System.out.println("Çıkış Yapıldı.");
@@ -76,7 +77,7 @@ public class Store {
         }
         input.close();
     }
-    private void displayNotebooks(){
+    private void displayNotebooks(){//Notebook ürün bilgileri.
         System.out.println("----------------------------------------------------------------------------------------------------");
         System.out.println("| ID | Ürün Adı                      | Fiyat     | Marka     | Depolama  | Ekran     | RAM         |");
         System.out.println("----------------------------------------------------------------------------------------------------");
@@ -85,7 +86,7 @@ public class Store {
         }
         System.out.println("----------------------------------------------------------------------------------------------------");
     }
-    private void displayCepTelefonları(){
+    private void displayCepTelefonları(){//Cep telefonları ürün bilgisi.
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------");
         System.out.println("| ID | Ürün Adı                      | Fiyat     | Marka     | Depolama  | Ekran     | Kamera    | Pil       | RAM       | Renk      |");
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------");
