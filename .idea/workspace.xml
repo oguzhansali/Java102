@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07453425-fe02-45b5-a36d-bf6ebbcfc5e7" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/AutoBoxingUnboxing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic/GenericMetot/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic/GenericMetot/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic/Interface/IDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic/Interface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic/Interface/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic/Sınıflar/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic/Sınıflar/Nullable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic/Sınıflar/NullableInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic/Sınıflar/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListeSınıfı/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListeSınıfı/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnumSınıfı/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnumSınıfı/Gün.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnumSınıfı/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TipDönüşümleri/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wrapper/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Wrapper/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +63,7 @@
     "Application.QueueLinkedList.Main.executor": "Run",
     "Application.Teams.executor": "Run",
     "Application.Throw.Main.executor": "Run",
+    "Application.TipDönüşümleri.Main.executor": "Run",
     "Application.TreeSet.Main.executor": "Run",
     "Application.Try.executor": "Run",
     "Application.TryCatchFinally.Main.executor": "Run",
@@ -85,20 +77,7 @@
     "onboarding.tips.debug.path": "C:/Users/oguzh/IdeaProjects/Java102/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ListeSınıfı.Main">
-    <configuration name="Generic.GenericMetot.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generic.GenericMetot.Main" />
-      <module name="Java102" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Generic.GenericMetot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Generic.Interface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Generic.Interface.Main" />
       <module name="Java102" />
@@ -126,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generic.Sınıflar.Main" />
+      <option name="MAIN_CLASS_NAME" value="EnumSınıfı.Main" />
       <module name="Java102" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generic.Sınıflar.*" />
+          <option name="PATTERN" value="EnumSınıfı.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,13 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TipDönüşümleri.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipDönüşümleri.Main" />
+      <module name="Java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TipDönüşümleri.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TipDönüşümleri.Main" />
         <item itemvalue="Application.ListeSınıfı.Main" />
         <item itemvalue="Application.MyList" />
         <item itemvalue="Application.Generic.Interface.Main" />
-        <item itemvalue="Application.Generic.GenericMetot.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716765938378</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary=".">
+      <option name="closed" value="true" />
+      <created>1716850411833</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716850411833</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
